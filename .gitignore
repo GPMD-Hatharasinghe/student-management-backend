@@ -1,3 +1,4 @@
+# Ignore all .yml files"
 *.yml
 
 target/
